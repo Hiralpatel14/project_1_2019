@@ -1,6 +1,6 @@
-# Frist Readme
+# First Readme  
 
-Hello Hiral
+Hello Hiral!  
 how r u
 great
 
